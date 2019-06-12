@@ -1,5 +1,5 @@
 # CollegeIdleApp
-The goal of this app is mainly for the trading of second-hand goods on campus.The href of CSDN is https://blog.csdn.net/chenpeixing361/article/details/91542797 .If you feel helpful in your study,please don't marry your star.Thanks for everyone!The running screenshots are as follows:
+The goal of this app is mainly for the trading of second-hand goods on campus.The use group for this app is mainly collage students.If you are interested in,you can also add an administrator's authority to manage student information and commodity information.The href of CSDN is https://blog.csdn.net/chenpeixing361/article/details/91542797 .If you feel helpful in your study,please don't marry your star.Thanks for everyone!The running screenshots are as follows:
 
 The Login interface:
 
