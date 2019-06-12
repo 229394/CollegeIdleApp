@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="product_type">
+        <item>请选择类别</item>
+        <item>学习用品</item>
+        <item>电子用品</item>
+        <item>体育用品</item>
+        <item>生活用品</item>
+    </string-array>
+</resources>
