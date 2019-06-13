@@ -3,7 +3,7 @@
 
 The Login interface:
 
-![image](https://github.com/229394/CollegeIdleApp/blob/master/screenshots/%E7%94%A8%E6%88%B7%E6%B3%A8%E5%86%8C.png)
+![image](https://github.com/229394/CollegeIdleApp/blob/master/screenshots/%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95.png)
 
 The Register interface:
 
